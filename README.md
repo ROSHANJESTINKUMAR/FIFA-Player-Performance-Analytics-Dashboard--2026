@@ -35,3 +35,7 @@ interactive dashboard highlighting key player and team performance insights.
 ## 👤 Author
 *Jestin Kumar Roshan*  
 GitHub: [@ROSHANJESTINKUMAR](https://github.com/ROSHANJESTINKUMAR)
+
+## 📊 Dashboard Preview
+
+![FIFA Dashboard](Screenshots/FIFA_Dashboard_Preview.png)
