@@ -38,4 +38,4 @@ GitHub: [@ROSHANJESTINKUMAR](https://github.com/ROSHANJESTINKUMAR)
 
 ## 📊 Dashboard Preview
 
-![FIFA Dashboard](Screenshots/FIFA_Dashboard_Preview.png)
+![FIFA Dashboard](FIFA_Dashboard_Preview.png)
